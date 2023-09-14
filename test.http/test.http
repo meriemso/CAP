@@ -1,0 +1,2 @@
+GET https://developer-challenge.cfapps.eu10.hana.ondemand.com/v1/hash(value='this-is-the-year-of-the-api')
+CommunityID: qmacro
